@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import ParentComponent from "./Components/Interaction/ParentComponent";
-import ChildComponent from "./Components/Interaction/ChildComponent";
+//import ChildComponent from "./Components/Interaction/ChildComponent";
 import CardOne from "./Components/Interaction/CardOne";
 import ComponentA from "./Components/ContextAPIs/ComponentA";
 import UserContext from './Components/ContextAPIs/UserContext'
