@@ -1,0 +1,15 @@
+.bg-danger{
+    background : linear-gradient(45deg, darkslategray, red);
+}
+
+.bg-info{
+    background : linear-gradient(45deg, darkslategray, orange);
+}
+
+.bg-success{
+    background : linear-gradient(45deg, darkslategray, limegreen);
+}
+
+.bg-dark{
+    background : linear-gradient(45deg, darkslategray, greenyellow);
+}
